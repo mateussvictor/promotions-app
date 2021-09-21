@@ -8,6 +8,11 @@
   align-items: flex-start;
 
   padding: 1.6rem;
+  margin-top: 1.6rem;
+}
+
+.card__info {
+  flex-grow: 1;
 }
 
 .card__img {

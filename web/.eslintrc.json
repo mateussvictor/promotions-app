@@ -23,6 +23,7 @@
     "import/no-duplicates": "off",
     "react/prop-types": "off",
     "react/jsx-one-expression-per-line": "off",
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "no-unused-vars": "warn"
   }
 }
